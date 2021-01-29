@@ -12,4 +12,3 @@ class Levenshtein():
 
         return m[-1][-1]
     
-print(Levenshtein('abacatekg','abacate').distance())
